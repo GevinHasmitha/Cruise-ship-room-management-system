@@ -1,0 +1,6 @@
+Room 1 is occupied by ewd wed with expenses 32
+Room 1 is occupied by rf erf with expenses 32
+room 2 is empty
+Room 3 is occupied by a3 a3 with expenses 33
+room 4 is empty
+room 5 is empty
